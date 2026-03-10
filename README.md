@@ -55,7 +55,7 @@ Metric comparison from MLflow:
 
 Confusion matrix for the selected Random Forest model:
 
-![Random Forest confusion matrix](mlruns/1/98b366319c1e429da82f49d91fea8c06/artifacts/plots/confusion_matrix.png)
+![Random Forest confusion matrix](screenshots/confusion_matrix.png)
 
 ## MLflow Tracking
 
